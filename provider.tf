@@ -1,4 +1,4 @@
 provider "aws"{
-    profile = "bixby-next"
+    profile = "demo-profile"
     region = "eu-central-1"
 }
